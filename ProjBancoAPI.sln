@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjBancoAPI", "ProjBancoAPI\ProjBancoAPI.csproj", "{BF78FE66-173A-44C8-A567-E70B61F3BE19}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{43C629F7-ED57-49EA-8D1D-D00853CF05D7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF78FE66-173A-44C8-A567-E70B61F3BE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF78FE66-173A-44C8-A567-E70B61F3BE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF78FE66-173A-44C8-A567-E70B61F3BE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF78FE66-173A-44C8-A567-E70B61F3BE19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75D9CF15-68BC-4E24-9E10-86E3170E88DC}
+	EndGlobalSection
+EndGlobal
